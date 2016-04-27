@@ -3,6 +3,9 @@ using Gtk;
 using Gdk;
 using ImgExample;
 
+//zmiana pliku
+//test gita
+
 public partial class MainWindow: Gtk.Window
 {
 	//ładowanie obrazka z zasobów
